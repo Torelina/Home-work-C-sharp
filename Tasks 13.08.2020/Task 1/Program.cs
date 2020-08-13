@@ -12,9 +12,9 @@ namespace Task_1
         {
             
             Console.WriteLine("Введите свой рост: ");
-            int height = Convert.ToInt32(Console.ReadLine());
-            int c = 100;
-            int weight = height - c;
+            double height = Convert.ToDouble(Console.ReadLine());
+            double c = 100;
+            double weight = height - c;
             Console.WriteLine("Ваш идеальный вес: {0}", weight );
             Console.ReadKey(); 
 
