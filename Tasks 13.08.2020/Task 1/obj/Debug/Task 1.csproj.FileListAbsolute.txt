@@ -1,0 +1,7 @@
+G:\проекты\пвс\Home work\Tasks 13.08.2020\Task 1\obj\Debug\Task 1.csprojAssemblyReference.cache
+G:\проекты\пвс\Home work\Tasks 13.08.2020\Task 1\obj\Debug\Task 1.csproj.CoreCompileInputs.cache
+G:\проекты\пвс\Home work\Tasks 13.08.2020\Task 1\bin\Debug\Task 1.exe.config
+G:\проекты\пвс\Home work\Tasks 13.08.2020\Task 1\bin\Debug\Task 1.exe
+G:\проекты\пвс\Home work\Tasks 13.08.2020\Task 1\bin\Debug\Task 1.pdb
+G:\проекты\пвс\Home work\Tasks 13.08.2020\Task 1\obj\Debug\Task 1.exe
+G:\проекты\пвс\Home work\Tasks 13.08.2020\Task 1\obj\Debug\Task 1.pdb
