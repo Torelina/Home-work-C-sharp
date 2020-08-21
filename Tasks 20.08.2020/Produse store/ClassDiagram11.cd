@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Produse_store.Acceptance" Collapsed="true">
-    <Position X="1.75" Y="6.25" Width="1.5" />
+    <Position X="1.75" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Acceptance.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Produse_store.ChoiseOfGoods" Collapsed="true">
-    <Position X="0.5" Y="12" Width="1.5" />
+    <Position X="2.75" Y="9" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ChoiseOfGoods.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Produse_store.Delivery" Collapsed="true">
-    <Position X="1.75" Y="9" Width="1.5" />
+    <Position X="1.75" Y="6.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Delivery.cs</FileName>
@@ -29,7 +29,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Produse_store.Payment" Collapsed="true">
-    <Position X="0.5" Y="13.25" Width="1.5" />
+    <Position X="2.75" Y="10.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Payment.cs</FileName>
@@ -43,21 +43,21 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Produse_store.shoppingArea" Collapsed="true">
-    <Position X="1.75" Y="7.5" Width="1.5" />
+    <Position X="1.75" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>shoppingArea.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Produse_store.ShoppingRoom" Collapsed="true">
-    <Position X="0.5" Y="10.5" Width="1.5" />
+    <Position X="2.75" Y="7.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ShoppingRoom.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Produse_store.Stock" Collapsed="true">
-    <Position X="2.75" Y="10.5" Width="1.5" />
+    <Position X="0.5" Y="7.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Stock.cs</FileName>

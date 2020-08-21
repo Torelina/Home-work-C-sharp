@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Produse_store
 {
-    class Acceptance: Unloading
+    class Acceptance : goods_unloading_area
     {
+        public  override abstract class Goods() 
+        { 
+
+        }
     }
 }
