@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Pasta
 {
-    abstract class Pasta
+     class Pasta
     {
         
         public void Composition(string Dough)
         {
-            Dough = Console.ReadLine();
+
             if (Dough == "мука вода")
             {
                 Console.WriteLine("Это макароны");
@@ -19,9 +19,10 @@ namespace Pasta
             }
             else
             {
-                Console.WriteLine("Ошибка, данный продукт не относится к макоронам");
+                Console.WriteLine("Ошибка, данный продукт не относится к макаронам");
             }
-            Console.ReadKey();
+        
+            
         }
         
     }
