@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Produse_store
+namespace Pasta
 {
-    class Payment: ChoiseOfGoods
+    class Program
     {
+        static void Main(string[] args)
+        {
+            
+        }
     }
 }

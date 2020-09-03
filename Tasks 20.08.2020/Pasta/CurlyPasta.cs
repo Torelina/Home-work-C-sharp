@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Produse_store
+namespace Pasta
 {
-    class Stock: Delivery
+    abstract class CurlyPasta: Pasta
     {
     }
 }

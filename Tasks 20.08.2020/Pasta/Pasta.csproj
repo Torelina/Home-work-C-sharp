@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A0AB330B-2606-45DF-A54B-065C6263BB93}</ProjectGuid>
+    <ProjectGuid>{25F2F79C-C661-4475-A744-D0A08277AE87}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Produse_store</RootNamespace>
-    <AssemblyName>Produse store</AssemblyName>
+    <RootNamespace>Pasta</RootNamespace>
+    <AssemblyName>Pasta</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,31 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Acceptance.cs" />
-    <Compile Include="Arrival.cs" />
-    <Compile Include="ChoiseOfGoods.cs" />
-    <Compile Include="Delivery.cs" />
-    <Compile Include="goodsUnloadingAarea.cs" />
-    <Compile Include="Payment.cs" />
+    <Compile Include="CurlyPasta.cs" />
+    <Compile Include="Pasta.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="shoppingArea.cs" />
-    <Compile Include="ShoppingRoom.cs" />
-    <Compile Include="Stock.cs" />
-    <Compile Include="Store.cs" />
-    <Compile Include="Unloading.cs" />
+    <Compile Include="RibbonPasta.cs" />
+    <Compile Include="StringPasta.cs" />
+    <Compile Include="TubularPasta.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="ClassDiagram1.cd" />
     <None Include="ClassDiagram2.cd" />
-    <None Include="ClassDiagram3.cd" />
-    <None Include="ClassDiagram4.cd" />
-    <None Include="ClassDiagram5.cd" />
-    <None Include="ClassDiagram6.cd" />
-    <None Include="ClassDiagram7.cd" />
-    <None Include="ClassDiagram8.cd" />
-    <None Include="ClassDiagram9.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

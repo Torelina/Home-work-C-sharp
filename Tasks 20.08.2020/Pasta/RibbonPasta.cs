@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Produse_store
+namespace Pasta
 {
-    class ChoiseOfGoods: ShoppingRoom
+    abstract class RibbonPasta:Pasta
     {
     }
 }
