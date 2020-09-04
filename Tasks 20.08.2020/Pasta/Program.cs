@@ -11,7 +11,8 @@ namespace Pasta
         static void Main(string[] args)
         {
             Pasta TestPasta = new Pasta();
-            TestPasta.Composition("мука вода");
+           
+            TestPasta.Composition("мука+вода");
             Console.ReadKey();
         }
     }

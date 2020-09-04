@@ -11,8 +11,8 @@ namespace Pasta
         
         public void Composition(string Dough)
         {
-
-            if (Dough == "мука вода")
+            Console.WriteLine("По составу это");
+            if (Dough == "мука+вода")
             {
                 Console.WriteLine("Это макароны");
                 
