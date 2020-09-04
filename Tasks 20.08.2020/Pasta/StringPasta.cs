@@ -8,7 +8,7 @@ namespace Pasta
 {
      class StringPasta: Pasta
     {
-        public static void Main()
+        public static void TypeStringPasta()
         {
             Console.WriteLine("Введите размер поперечного сечения (в мм)");
             int TestPastaString = Convert.ToInt32(Console.ReadLine());
