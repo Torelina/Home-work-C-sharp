@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Pasta
 {
-     class Pasta
+    public class Pasta
     {
         
         public void Composition(string Dough)
